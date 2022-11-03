@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@Vijayaraj-Anbalagan**
-- 👀 I’m interested in **Computer Science and Design
-- 🌱 I’m currently **learning Web Devlpment
-- 💞️ I’m looking to collaborate on **Web Projects
+- 👀 I’m interested in **Computer Science and Design**
+- 🌱 I’m currently **learning Web Devlpment**
+- 💞️ I’m looking to collaborate on **Web Projects**
 - 📫 How to reach me
 - mail id : Vijayaraj.anbalagan@gmail.com;
 - linkedin : [Vijayaraj Anbalagan](https://www.linkedin.com/in/vijayaraj-anbalagan-6595a3243/?originalSubdomain=in);
