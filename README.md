@@ -5,8 +5,7 @@
 - 📫 How to reach me
 - mail id : Vijayaraj.anbalagan@gmail.com;
 - linkedin : Vijayaraj Anbalagan;
-- instagram : ig.vjraj ;
-
+- instagram : ig.vjraj[Linkedin](https://www.linkedin.com/in/vijayaraj-anbalagan-6595a3243/?originalSubdomain=in);
 <!---
 Vijayaraj-Anbalagan/Vijayaraj-Anbalagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
