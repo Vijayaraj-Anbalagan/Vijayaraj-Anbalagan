@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijayaraj Anbalagan</h1>
 <h3 align="center">Hello, I'm Vijayaraj, a Computer Science student who is passionate about Design. I enjoy building user friendly solutions, projects, apps and sites.</h3>
 
-- 🔭 I’m currently working on [Machmeyers Academy](https://machemeyers.in)
+- 🔭 I’m currently working on [SalesSync](https://sales-sync-test.vercel.app/index.html)
 
 - 🌱 I’m currently learning **GenAI , Web3 , LangChain**
 
